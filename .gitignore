@@ -1,3 +1,8 @@
 .vscode
 flapi
 nginx
+.lvimrc
+.session.vim
+.undodir
+.*.swp
+.*.swo
